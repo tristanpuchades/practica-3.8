@@ -1,0 +1,20 @@
+div.lacarta{
+    color: brown;
+    text-align: center;
+    font-weight: bold;
+}
+
+body{
+    background-color: beige;
+}
+
+div.lacarta2{
+   color: brown;
+   text-align: left;
+}
+
+h1.carta{
+    color: brown;
+    font-weight: bold;
+}
+

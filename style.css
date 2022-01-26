@@ -1,0 +1,24 @@
+h1{
+    font-weight: bold;
+    color: brown;
+    text-align: center;
+}
+
+body{
+    background-color: beige;
+}
+
+div.carta{
+    position: relative;
+    left: 425px;
+}
+
+div.cafe{
+    position: relative;
+    left: 825px;
+}
+
+div.contacto{
+    position: relative;
+    left: 1225px;
+}
