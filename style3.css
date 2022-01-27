@@ -1,0 +1,14 @@
+div.elcafe{
+    color: brown;
+    text-align: center;
+    font-weight: bold;
+}
+
+body{
+    background-color: beige;
+}
+
+div.elcafe2{
+    color: brown;
+    text-align: left;
+}
